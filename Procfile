@@ -1,1 +1,1 @@
-socket: ./lib/sockets-connect/rs-conn java -cp target/classes:target/dependency/* provasocket.MainServer
+socket: ./lib/sockets-connect/rs-conn java -cp com.angtrim.javaruppellexample.MainServer
